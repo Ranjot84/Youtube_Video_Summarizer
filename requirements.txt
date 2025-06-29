@@ -2,3 +2,4 @@ google-generativeai
 youtube-transcript-api
 streamlit
 python-dotenv
+google-api-python-client
