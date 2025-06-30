@@ -1,0 +1,24 @@
+# Python virtual environment folder
+# This can be recreated from requirements.txt, so we don't upload it.
+.venv/
+venv/
+
+# Local Streamlit configuration and secrets
+# This is the MOST IMPORTANT line to keep your API keys safe!
+.streamlit/
+
+# General environment file (if you have one)
+.env
+
+# Obsolete Google OAuth credentials file
+client_secrets.json
+
+# Python auto-generated cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / Editor specific folders
+.vscode/
+.idea/
