@@ -1,4 +1,8 @@
+streamlit
 google-generativeai
 youtube-transcript-api
-streamlit
+requests
+gTTS
+fpdf2
+streamlit-lottie
 python-dotenv
